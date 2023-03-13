@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THE-007
+- 👋 Hi, I’m @himavanth-k
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on C and Python Projects
